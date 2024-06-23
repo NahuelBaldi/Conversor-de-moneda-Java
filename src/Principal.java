@@ -43,7 +43,7 @@ public class Principal {
                     break;
                 case 7:
                     System.out.println("Saliendo...");
-                    System.out.println("Gracias por usar el conversor de moneda|Nahuel Baldiviezo");
+                    System.out.println("Gracias por usar el conversor de moneda!|Nahuel Baldiviezo");
                     break;
                 default:
                     System.out.println("Opción no válida");
